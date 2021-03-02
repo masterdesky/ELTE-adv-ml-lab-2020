@@ -1,0 +1,2 @@
+# Outputs after training on 800 images from dataset (correct outputs)
+In this repository I show some example test pictures with generated captions after 500 epochs training on 800 images with 200 test images from the dataset.
